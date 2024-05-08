@@ -1,7 +1,3 @@
-To create a README for the "Knowledgeable Knights" project, you can follow this template:
-
----
-
 # Knowledgeable Knights
 
 Knowledgeable Knights is a chess application developed in Python using Tkinter. It demonstrates the knight's tour problem-solving through an interactive chessboard visualization.
